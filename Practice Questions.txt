@@ -1,0 +1,8 @@
+https://quabr.com/35097467/largest-bi-valued-slice-in-an-array
+https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
+https://1o24bbs.com/t/topic/10219
+https://leetcode.com/problems/kth-largest-element-in-an-array/
+https://www.geeksforgeeks.org/maximum-even-sum-subsequence/
+https://gist.github.com/romabelka/8bb8ef40e9e991ea1728eb8105c57cb2
+https://www.chegg.com/homework-help/questions-and-answers/room-decorated-largest-wall-would-like-paint-skyline-skyline-consists-rectangular-building
+ 
